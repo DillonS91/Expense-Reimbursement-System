@@ -1,0 +1,794 @@
+2022-07-17 19:00:20,424 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-07-17 19:17:30,858 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ExpenseReimursementSystem\expense-reimbursement\pom.xml
+2022-07-17 19:17:31,276 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.skillstorm:expense-reimbursement:0.0.1-SNAPSHOT @ C:\ExpenseReimursementSystem\expense-reimbursement\pom.xml.
+2022-07-17 19:17:31,702 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /expense-reimbursement/src/main/java
+2022-07-17 19:17:31,702 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /expense-reimbursement/src/test/java
+2022-07-17 19:17:32,033 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-07-17 19:17:32,465 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 19:17:32,465 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expense-reimbursement\src\main\resources
+2022-07-17 19:17:32,466 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 19:17:32,466 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expense-reimbursement\src\test\resources
+2022-07-17 19:28:47,288 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ExpenseReimursementSystem\expensereimbursement\pom.xml
+2022-07-17 19:28:47,401 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.skillstorm:expensereimbursement:0.0.1-SNAPSHOT @ C:\ExpenseReimursementSystem\expensereimbursement\pom.xml.
+2022-07-17 19:28:47,612 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /expensereimbursement/src/main/java
+2022-07-17 19:28:47,612 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /expensereimbursement/src/test/java
+2022-07-17 19:28:47,692 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-07-17 19:28:47,868 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 19:28:47,868 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 19:28:47,869 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 19:28:47,869 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 19:31:38,064 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 19:31:38,064 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 19:31:38,065 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 19:31:38,065 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:02:32,740 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.skillstorm:expensereimbursement:0.0.1-SNAPSHOT @ C:\ExpenseReimursementSystem\expensereimbursement\pom.xml.
+2022-07-17 20:02:33,041 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:02:33,041 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:02:33,042 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:02:33,042 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:02:33,043 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of expensereimbursement
+2022-07-17 20:02:33,044 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for expensereimbursement
+2022-07-17 20:02:33,046 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:03:26,547 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.skillstorm:expensereimbursement:0.0.1-SNAPSHOT @ C:\ExpenseReimursementSystem\expensereimbursement\pom.xml.
+2022-07-17 20:03:26,757 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:03:26,757 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:03:26,758 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:03:26,758 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:03:26,758 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of expensereimbursement
+2022-07-17 20:03:26,758 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for expensereimbursement
+2022-07-17 20:03:26,760 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:04:10,774 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-07-17 20:04:10,856 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.skillstorm:expensereimbursement:0.0.1-SNAPSHOT @ C:\ExpenseReimursementSystem\expensereimbursement\pom.xml.
+2022-07-17 20:04:11,050 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /expensereimbursement/src/main/java
+2022-07-17 20:04:11,051 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /expensereimbursement/src/test/java
+2022-07-17 20:04:11,122 [Worker-30: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for expensereimbursement
+2022-07-17 20:04:11,125 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-07-17 20:04:11,653 [Worker-31: Building Project expensereimbursement] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:04:11,653 [Worker-31: Building Project expensereimbursement] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:04:11,654 [Worker-31: Building Project expensereimbursement] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:04:11,654 [Worker-31: Building Project expensereimbursement] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:04:11,654 [Worker-31: Building Project expensereimbursement] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of expensereimbursement
+2022-07-17 20:04:11,654 [Worker-31: Building Project expensereimbursement] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for expensereimbursement
+2022-07-17 20:04:11,655 [Worker-31: Building Project expensereimbursement] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:06:19,006 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:06:19,006 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:06:19,007 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:06:19,007 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:06:37,243 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:06:37,243 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:06:37,243 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:06:37,243 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:08:54,407 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:08:54,408 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:08:54,408 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:08:54,408 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:08:55,415 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:08:55,415 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:08:55,415 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:08:55,415 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:11:06,412 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:11:06,413 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:11:06,413 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:11:06,413 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:13:09,961 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:13:09,961 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:13:09,962 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:13:09,962 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-17 20:18:06,981 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:18:06,982 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-17 20:18:06,982 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-17 20:18:06,982 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:08:51,073 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-18 10:09:30,426 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:09:30,427 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:09:30,429 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:09:30,429 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:11:38,460 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:11:38,460 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:11:38,461 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:11:38,461 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:11:59,563 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:11:59,563 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:11:59,564 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:11:59,564 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:30:41,612 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:30:41,612 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:30:41,613 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:30:41,613 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:41:30,296 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:41:30,296 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:41:30,297 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:41:30,297 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:43:09,810 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:43:09,810 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:43:09,811 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:43:09,811 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:43:51,886 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:43:51,886 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:43:51,887 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:43:51,887 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:45:32,690 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:45:32,690 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:45:32,692 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:45:32,692 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:46:59,537 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:46:59,537 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:46:59,538 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:46:59,538 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:49:09,857 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:49:09,858 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:49:09,858 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:49:09,858 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:49:26,564 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:49:26,564 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:49:26,565 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:49:26,565 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:49:44,883 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:49:44,883 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:49:44,884 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:49:44,884 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:54:55,966 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:54:55,966 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:54:55,967 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:54:55,967 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 10:54:58,481 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:54:58,481 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 10:54:58,482 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 10:54:58,482 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 11:06:02,410 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 11:06:02,410 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 11:06:02,411 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 11:06:02,411 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:30:13,713 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:30:13,713 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:30:13,714 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:30:13,714 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:31:35,851 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-18 15:32:35,968 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:32:35,969 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:32:35,971 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:32:35,971 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:33:11,439 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-07-18 15:33:11,665 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.skillstorm:expensereimbursement:0.0.1-SNAPSHOT @ C:\ExpenseReimursementSystem\expensereimbursement\pom.xml.
+2022-07-18 15:33:12,035 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /expensereimbursement/src/main/java
+2022-07-18 15:33:12,035 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /expensereimbursement/src/test/java
+2022-07-18 15:33:12,138 [Worker-9: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for expensereimbursement
+2022-07-18 15:33:12,151 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-07-18 15:33:12,347 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:33:12,347 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:33:12,349 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:33:12,349 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:33:12,349 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of expensereimbursement
+2022-07-18 15:33:12,350 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for expensereimbursement
+2022-07-18 15:33:12,359 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:38:10,886 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:38:10,886 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:38:10,886 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:38:10,886 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:38:27,964 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:38:27,964 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:38:27,965 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:38:27,965 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:40:37,819 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:40:37,819 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:40:37,819 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:40:37,820 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:40:44,872 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:40:44,872 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:40:44,873 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:40:44,873 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:41:16,660 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:41:16,660 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:41:16,661 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:41:16,661 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:42:13,213 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:42:13,213 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:42:13,213 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:42:13,213 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:46:01,435 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:46:01,435 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:46:01,436 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:46:01,436 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 15:46:58,701 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:46:58,701 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 15:46:58,702 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 15:46:58,702 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 16:00:48,632 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:00:48,632 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 16:00:48,633 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 16:00:48,633 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 18:42:34,835 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 18:42:34,835 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 18:42:34,836 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 18:42:34,836 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 20:08:11,930 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 20:08:11,930 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 20:08:11,931 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 20:08:11,931 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 20:10:42,867 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 20:10:42,867 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 20:10:42,867 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 20:10:42,867 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 20:13:09,093 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 20:13:09,093 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 20:13:09,094 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 20:13:09,094 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 20:23:20,293 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 20:23:20,293 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 20:23:20,294 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 20:23:20,294 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 21:12:22,774 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 21:12:22,775 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 21:12:22,775 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 21:12:22,775 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 21:26:06,914 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 21:26:06,914 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 21:26:06,915 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 21:26:06,915 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 21:37:06,974 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 21:37:06,974 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 21:37:06,975 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 21:37:06,975 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 21:50:44,014 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 21:50:44,014 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 21:50:44,014 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 21:50:44,014 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:06:28,564 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:06:28,565 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:06:28,565 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:06:28,565 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:12:42,085 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:12:42,086 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:12:42,086 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:12:42,086 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:16:37,995 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:16:37,995 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:16:37,996 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:16:37,996 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:21:32,646 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:21:32,646 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:21:32,647 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:21:32,647 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:23:08,674 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:23:08,675 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:23:08,675 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:23:08,675 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:23:59,918 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:23:59,918 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:23:59,919 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:23:59,919 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:25:10,947 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:25:10,947 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:25:10,948 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:25:10,948 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:25:26,074 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:25:26,074 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:25:26,074 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:25:26,074 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:25:51,207 [Worker-83: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:25:51,207 [Worker-83: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:25:51,208 [Worker-83: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:25:51,208 [Worker-83: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:28:16,263 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:28:16,264 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:28:16,264 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:28:16,264 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:34:52,739 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:34:52,739 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:34:52,739 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:34:52,740 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:38:44,834 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:38:44,834 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:38:44,835 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:38:44,835 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:39:59,124 [Worker-94: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:39:59,124 [Worker-94: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:39:59,125 [Worker-94: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:39:59,125 [Worker-94: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:51:58,886 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:51:58,886 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:51:58,886 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:51:58,886 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:52:02,922 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:52:02,922 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:52:02,922 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:52:02,922 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:55:22,193 [Worker-102: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:55:22,193 [Worker-102: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:55:22,193 [Worker-102: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:55:22,193 [Worker-102: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:57:42,986 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:57:42,986 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:57:42,986 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:57:42,986 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:57:45,584 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:57:45,585 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:57:45,585 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:57:45,585 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 22:58:26,796 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:58:26,796 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 22:58:26,796 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 22:58:26,796 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:04:17,787 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:04:17,787 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:04:17,788 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:04:17,788 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:04:57,806 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:04:57,806 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:04:57,807 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:04:57,807 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:07:21,139 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:07:21,139 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:07:21,140 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:07:21,140 [Worker-112: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:11:58,389 [Worker-118: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:11:58,389 [Worker-118: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:11:58,390 [Worker-118: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:11:58,390 [Worker-118: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:12:53,100 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:12:53,100 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:12:53,100 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:12:53,100 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:13:24,920 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:13:24,920 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:13:24,921 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:13:24,921 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:13:35,438 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:13:35,438 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:13:35,439 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:13:35,439 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:13:47,772 [Worker-117: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:13:47,772 [Worker-117: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:13:47,773 [Worker-117: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:13:47,773 [Worker-117: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:15:04,150 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:15:04,150 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:15:04,150 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:15:04,150 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:16:46,258 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:16:46,258 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:16:46,258 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:16:46,259 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:27:57,013 [Worker-122: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:27:57,013 [Worker-122: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:27:57,014 [Worker-122: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:27:57,014 [Worker-122: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:33:54,204 [Worker-125: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:33:54,204 [Worker-125: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:33:54,205 [Worker-125: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:33:54,205 [Worker-125: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:34:07,373 [Worker-126: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:34:07,373 [Worker-126: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:34:07,374 [Worker-126: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:34:07,374 [Worker-126: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:36:31,925 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:36:31,925 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:36:31,926 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:36:31,926 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:36:37,733 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:36:37,733 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:36:37,733 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:36:37,733 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:39:05,046 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:39:05,046 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:39:05,047 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:39:05,047 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-18 23:39:58,799 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:39:58,799 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-18 23:39:58,799 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 23:39:58,799 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 10:06:11,350 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-19 18:43:13,825 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:43:13,826 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 18:43:13,827 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:43:13,827 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 18:50:02,013 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:50:02,014 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 18:50:02,014 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:50:02,014 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 18:53:11,366 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:53:11,366 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 18:53:11,367 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:53:11,367 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 18:53:15,178 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:53:15,178 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 18:53:15,179 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:53:15,179 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 18:54:41,876 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:54:41,876 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 18:54:41,877 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:54:41,877 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 18:55:38,358 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:55:38,358 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 18:55:38,359 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:55:38,359 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 18:55:46,107 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:55:46,107 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 18:55:46,108 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 18:55:46,108 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:01:12,862 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:01:12,862 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:01:12,863 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:01:12,863 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:01:20,597 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:01:20,597 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:01:20,598 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:01:20,598 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:14:49,779 [Worker-29: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:14:49,780 [Worker-29: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:14:49,781 [Worker-29: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:14:49,781 [Worker-29: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:16:45,343 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:16:45,343 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:16:45,344 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:16:45,344 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:18:03,119 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:18:03,119 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:18:03,120 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:18:03,120 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:18:38,694 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:18:38,694 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:18:38,695 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:18:38,695 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:21:57,158 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:21:57,158 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:21:57,159 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:21:57,159 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:23:11,820 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:23:11,820 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:23:11,820 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:23:11,821 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:23:52,616 [Worker-32: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:23:52,616 [Worker-32: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:23:52,617 [Worker-32: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:23:52,617 [Worker-32: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:24:27,725 [Worker-35: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:24:27,726 [Worker-35: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:24:27,726 [Worker-35: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:24:27,727 [Worker-35: Launching ExpenseSystem] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:25:26,290 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:25:26,290 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:25:26,291 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:25:26,291 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:42:03,165 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:42:03,165 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:42:03,166 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:42:03,166 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 19:48:03,742 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:48:03,742 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 19:48:03,742 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 19:48:03,743 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 21:18:35,500 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:18:35,500 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 21:18:35,500 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:18:35,500 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 21:22:15,930 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:22:15,930 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 21:22:15,931 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:22:15,931 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 21:28:03,309 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:28:03,309 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 21:28:03,310 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:28:03,310 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 21:30:12,308 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:30:12,308 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 21:30:12,309 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:30:12,309 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 21:34:00,542 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:34:00,542 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 21:34:00,542 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:34:00,543 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 21:44:13,905 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:44:13,905 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 21:44:13,905 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:44:13,906 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 21:47:20,914 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:47:20,914 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 21:47:20,915 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 21:47:20,915 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 22:12:28,346 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-19 22:24:26,754 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:24:26,754 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 22:24:26,755 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:24:26,755 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 22:24:44,561 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:24:44,561 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 22:24:44,561 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:24:44,562 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 22:27:17,380 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:27:17,380 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 22:27:17,381 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:27:17,381 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 22:37:46,404 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:37:46,404 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 22:37:46,404 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:37:46,405 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-19 22:48:36,453 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:48:36,453 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-19 22:48:36,454 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 22:48:36,454 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 08:02:01,252 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-20 13:52:11,536 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-20 14:11:46,437 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 14:11:46,438 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 14:11:46,440 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 14:11:46,440 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:09:32,557 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:09:32,557 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:09:32,558 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:09:32,558 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:12:19,820 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:12:19,820 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:12:19,821 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:12:19,821 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:16:52,380 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:16:52,380 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:16:52,381 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:16:52,381 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:20:25,789 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:20:25,789 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:20:25,790 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:20:25,790 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:21:57,869 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:21:57,869 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:21:57,869 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:21:57,869 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:30:12,765 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:30:12,765 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:30:12,766 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:30:12,766 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:32:51,122 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:32:51,122 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:32:51,123 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:32:51,123 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:44:00,346 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:44:00,347 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:44:00,348 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:44:00,348 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:58:25,622 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:58:25,622 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:58:25,623 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:58:25,623 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 19:59:52,808 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:59:52,808 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 19:59:52,809 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 19:59:52,809 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 20:01:06,382 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 20:01:06,382 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 20:01:06,383 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 20:01:06,383 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-20 20:04:21,637 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 20:04:21,637 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-20 20:04:21,638 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-20 20:04:21,638 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 08:14:21,723 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-21 11:11:30,298 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-21 13:37:21,781 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 13:37:21,782 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 13:37:21,784 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 13:37:21,784 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 16:10:35,012 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:10:35,012 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 16:10:35,013 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:10:35,013 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 16:18:15,848 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:18:15,848 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 16:18:15,848 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:18:15,848 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 16:25:24,207 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-21 16:26:11,157 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:26:11,158 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 16:26:11,160 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:26:11,160 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 16:32:13,807 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:32:13,807 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 16:32:13,808 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:32:13,808 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 16:32:14,869 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:32:14,869 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 16:32:14,870 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:32:14,870 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 16:32:17,433 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:32:17,433 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 16:32:17,434 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 16:32:17,434 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 17:57:46,404 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 17:57:46,405 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 17:57:46,405 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 17:57:46,405 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 17:57:51,694 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 17:57:51,694 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 17:57:51,695 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 17:57:51,695 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 17:58:43,977 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 17:58:43,977 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 17:58:43,978 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 17:58:43,978 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 17:59:01,122 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 17:59:01,122 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 17:59:01,123 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 17:59:01,123 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 18:23:03,336 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 18:23:03,337 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 18:23:03,337 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 18:23:03,337 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 18:23:39,099 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 18:23:39,099 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 18:23:39,100 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 18:23:39,100 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-21 18:23:53,618 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 18:23:53,618 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-21 18:23:53,618 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 18:23:53,619 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:39:44,639 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:39:44,639 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:39:44,639 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:39:44,640 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:40:04,358 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:40:04,358 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:40:04,358 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:40:04,358 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:44:06,763 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:44:06,763 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:44:06,764 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:44:06,764 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:45:08,027 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:45:08,028 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:45:08,028 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:45:08,028 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:45:09,086 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:45:09,086 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:45:09,086 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:45:09,086 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:50:25,927 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:50:25,927 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:50:25,927 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:50:25,928 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:50:28,316 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:50:28,317 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:50:28,317 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:50:28,318 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:50:35,700 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:50:35,701 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:50:35,702 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:50:35,702 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:53:56,155 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:53:56,156 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:53:56,156 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:53:56,156 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:54:01,923 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:54:01,923 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:54:01,924 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:54:01,924 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:55:38,901 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:55:38,901 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:55:38,901 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:55:38,901 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:55:44,813 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:55:44,814 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:55:44,814 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:55:44,814 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:56:40,513 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:56:40,514 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:56:40,514 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:56:40,514 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:57:05,784 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:05,784 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:57:05,784 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:05,784 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:57:06,841 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:06,841 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:57:06,842 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:06,842 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:57:08,786 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:08,786 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:57:08,787 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:08,787 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:57:09,843 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:09,844 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:57:09,844 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:09,844 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 00:57:17,731 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:17,731 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 00:57:17,732 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 00:57:17,732 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:05:01,617 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:05:01,617 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:05:01,617 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:05:01,618 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:05:31,976 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:05:31,977 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:05:31,977 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:05:31,977 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:11:19,093 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:11:19,094 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:11:19,094 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:11:19,094 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:11:20,101 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:11:20,101 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:11:20,101 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:11:20,101 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:11:23,418 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:11:23,418 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:11:23,419 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:11:23,419 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:15:56,905 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:15:56,905 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:15:56,906 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:15:56,906 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:15:57,912 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:15:57,912 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:15:57,912 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:15:57,913 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:19:54,336 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:19:54,336 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:19:54,337 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:19:54,337 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:20:41,836 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:20:41,836 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:20:41,836 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:20:41,837 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:20:42,842 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:20:42,843 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:20:42,843 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:20:42,843 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:23:38,953 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:23:38,953 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:23:38,954 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:23:38,954 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:23:39,984 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:23:39,985 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:23:39,985 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:23:39,985 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:24:32,149 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:24:32,150 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:24:32,150 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:24:32,150 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:24:38,032 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:24:38,032 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:24:38,032 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:24:38,032 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:25:10,809 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:25:10,810 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:25:10,810 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:25:10,810 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:25:31,683 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:25:31,683 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:25:31,684 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:25:31,684 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:27:42,650 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:27:42,651 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:27:42,651 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:27:42,651 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:28:04,537 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:28:04,537 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:28:04,538 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:28:04,538 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:29:30,029 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:30,030 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:29:30,030 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:30,030 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:29:34,645 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:34,645 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:29:34,645 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:34,646 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:29:35,652 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:35,652 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:29:35,652 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:35,653 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:29:36,713 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:36,713 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:29:36,714 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:36,714 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:29:37,719 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:37,720 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:29:37,720 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:29:37,720 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:31:58,678 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:31:58,678 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:31:58,679 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:31:58,679 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources
+2022-07-22 01:32:36,398 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:32:36,398 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\main\resources
+2022-07-22 01:32:36,399 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-22 01:32:36,399 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ExpenseReimursementSystem\expensereimbursement\src\test\resources

@@ -1,0 +1,117 @@
+package com.skillstorm.DAO;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
+
+import com.skillstorm.beans.Expense;
+import com.skillstorm.beans.ExpenseJoinTable;
+import com.skillstorm.beans.ReimbursementStatus;
+
+public class ExpenseDAO {
+	
+	private Connection connection;
+	
+	public ExpenseDAO() throws SQLException{
+		String url = "jdbc:mysql://localhost:3306/reimbursementsystem";
+		String username = "root";
+		String password = "root";
+		this.connection = DriverManager.getConnection(url, username, password);
+	}
+
+	public Expense create(Expense expense) throws SQLException{
+		ReimbursementStatus status = new ReimbursementStatus();
+		String sql = "insert into expenses(employee_name, reason, notes, reimbursement_id) values (?, ?, ?, 1)";
+		PreparedStatement statement = connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
+		statement.setString(1, expense.getEmployeeName());
+		statement.setString(2, expense.getExpenseReason());
+		statement.setString(3, expense.getExpenseNotes());
+		statement.executeUpdate();
+		ResultSet rs = statement.getGeneratedKeys();
+		
+		if(rs.next()) {
+			expense.setExpenseId(rs.getInt(1));
+			return expense;
+		} else
+			return null;
+	}
+	
+	public List<Expense> findAll() throws SQLException{
+		
+		List<Expense> list = new CopyOnWriteArrayList<>();
+		//ArrayList<Expense> list = new ArrayList<>();		
+		String sql = "select * from expenses";
+		PreparedStatement statement = connection.prepareStatement(sql);
+		ResultSet rs = statement.executeQuery();
+		
+		if(rs != null) {
+			while (rs.next()) {
+				Expense expense = new Expense();
+				expense.setExpenseId(rs.getInt("expense_id"));
+				expense.setEmployeeName(rs.getString("employee_name"));
+				expense.setExpenseReason(rs.getString("reason"));
+				expense.setExpenseNotes(rs.getString("notes"));
+				expense.setStatus(rs.getInt("reimbursement_id"));
+				list.add(expense);
+			}			
+			return list;
+		} else
+			return new CopyOnWriteArrayList<>();
+	}
+	
+
+	public boolean updateById(int eID, int rID) throws SQLException{
+		String sql = "update expenses set reimbursement_id = ? where expense_id = ?";
+		PreparedStatement statement = connection.prepareStatement(sql);
+		statement.setInt(1, rID);
+		statement.setInt(2, eID);
+		return statement.executeUpdate() == 1;
+	}
+	
+	public boolean deleteById(int id) throws SQLException {
+		String sql = "delete from expenses where expense_id = ?";
+		PreparedStatement statement = connection.prepareStatement(sql);
+		statement.setInt(1, id);
+		return statement.executeUpdate() == 1;
+	}
+	
+}
+
+//public ArrayList<ExpenseJoinTable> findByName(String name) throws SQLException{
+//ArrayList<ExpenseJoinTable> list = new ArrayList<>();
+//String sql = "select expenses.employee_name, expenses.reason, expenses.notes, reimbursement_statuses.reimbursement_status "
+//		   + "from expenses "
+//		   + "inner join reimbursement_statuses on expenses.reimbursement_id = reimbursement_statuses.reimbursement_id "
+//		   + "where expenses.employee_name = ?";
+//PreparedStatement statement = connection.prepareStatement(sql);
+//statement.setString(1, name);
+//ResultSet rs = statement.executeQuery();
+//
+//if(rs != null) {
+//	while (rs.next()) {
+//		ExpenseJoinTable expense = new ExpenseJoinTable();
+//		expense.setEmployeeName(rs.getString("employee_name"));
+//		expense.setExpenseReason(rs.getString("reason"));
+//		expense.setExpenseNotes(rs.getString("notes"));
+//		expense.setStatus(rs.getString("reimbursement_status"));
+//		list.add(expense);
+//	}
+//	
+//	return list;
+//} else
+//	return new ArrayList<>();
+//}
+
+
+//public boolean deleteByName(String name) throws SQLException {
+//String sql = "delete from expenses where employee_name = ?";
+//PreparedStatement statement = connection.prepareStatement(sql);
+//statement.setString(1, name);
+//return statement.executeUpdate() == 1;
+//}

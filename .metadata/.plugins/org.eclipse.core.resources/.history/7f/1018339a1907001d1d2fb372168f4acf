@@ -1,0 +1,44 @@
+package com.skillstorm.beans;
+
+public class ExpenseJoinTable {
+	private String employeeName;
+	private String expenseReason;
+	private String expenseNotes;
+	private String status;
+	//======================================================== Constructors
+	public ExpenseJoinTable() {
+		super();
+	}
+	//======================================================== Getters and Setters
+	public String getEmployeeName() {
+		return employeeName;
+	}
+	public void setEmployeeName(String employeeName) {
+		this.employeeName = employeeName;
+	}
+	public String getExpenseReason() {
+		return expenseReason;
+	}
+	public void setExpenseReason(String expenseReason) {
+		this.expenseReason = expenseReason;
+	}
+	public String getExpenseNotes() {
+		return expenseNotes;
+	}
+	public void setExpenseNotes(String expenseNotes) {
+		this.expenseNotes = expenseNotes;
+	}
+	public String getStatus() {
+		return status;
+	}
+	public void setStatus(String status) {
+		this.status = status;
+	}
+	//======================================================== toString	
+	@Override
+	public String toString() {
+		return "ExpenseJoinTable [employeeName=" + employeeName + ", expenseReason=" + expenseReason + ", expenseNotes="
+				+ expenseNotes + ", status=" + status + "]";
+	}
+	
+}

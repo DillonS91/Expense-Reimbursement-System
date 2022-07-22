@@ -1,0 +1,25 @@
+
+n	java:S125Q"<This block of commented-out lines of code should be removed.(†Ø¦…8¾§ì¤¢0HÿRMAJORZ
+CODE_SMELL
+‚
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8„âõ¢¡0HŞ	RBLOCKERZBUG
+‚
+java:S2095F"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8Å¿™Ë¡0HÚ	RBLOCKERZBUG
+r
+java:S1854":Remove this useless assignment to local variable "status".(ÔåĞÀúÿÿÿÿ8ÿŞí¤¡0H½	RMAJORZ
+CODE_SMELL
+c
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ì£ÔÇ¡0Há	RMINORZ
+CODE_SMELL
+c
+java:S1481"+Remove this unused "status" local variable.(ÔåĞÀúÿÿÿÿ8ÿŞí¤¡0HÆ	RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ĞôHÄ	RMINORZ
+CODE_SMELL
+‚
+java:S2095="OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8ÖÇ‚¦¡0HÅ	RBLOCKERZBUG
+‚
+java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8©æÙ¥¡0Hİ	RBLOCKERZBUG
+b
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Å¿™Ë¡0Hß	RMINORZ
+CODE_SMELL

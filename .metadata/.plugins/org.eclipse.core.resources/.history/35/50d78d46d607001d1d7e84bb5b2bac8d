@@ -1,0 +1,35 @@
+package com.skillstorm.expensereimbursement;
+
+import com.skillstorm.beans.*;
+
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
+//import static java.lang.System.out;
+import java.util.concurrent.CopyOnWriteArrayList;
+
+import com.skillstorm.DAO.ExpenseDAO;
+
+public class ExpenseSystem {
+
+	public static void main(String[] args) throws SQLException {
+		Expense expense = new Expense("Dillon Shomaker", "Bought stuff for work", "cost $140");
+		ExpenseDAO dao = new ExpenseDAO();
+		List<Expense> list1 = new CopyOnWriteArrayList<Expense>();
+		ArrayList<ExpenseJoinTable> list2 = new ArrayList<>();
+		
+		
+		//list1.add(dao.create(expense));
+		list1 = dao.findAll();
+		
+		
+		for(int i = 0; i < list1.size(); i++) {
+			System.out.println(list1.get(i).toString());
+		}
+		
+		System.out.println("hi");
+		
+	
+	}
+
+}

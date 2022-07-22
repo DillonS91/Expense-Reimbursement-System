@@ -1,0 +1,37 @@
+package com.skillstorm.DAO;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import com.skillstorm.beans.Expense;
+
+public class ExpenseDAO {
+	
+	private Connection connection;
+	
+	public ExpenseDAO() throws SQLException{
+		String url = "jdbc:mysql://localhost:3306/reimbursementsystem";
+		String username = "root";
+		String password = "root";
+		this.connection = DriverManager.getConnection(url, username, password);
+	}
+	
+	public Expense create(Expense expense) throws SQLException{
+		String sql = "insert into expenses(employee_name, reason, notes, reimbursement_id) values (?, ?, ?, 1)";
+		PreparedStatement statement = connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
+		statement.setString(1, expense.getEmployeeName());
+		statement.setString(2, expense.getExpenseReason());
+		statement.setString(3, expense.getExpenseNotes());
+		ResultSet rs = statement.getGeneratedKeys();
+		rs.next();
+		expense.setExpenseId(rs.getInt(1));
+		return expense;
+	}
+	
+	
+	
+}

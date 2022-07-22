@@ -1,0 +1,25 @@
+package com.skillstorm.expensereimbursement;
+
+import com.skillstorm.beans.*;
+
+import java.sql.SQLException;
+import java.util.ArrayList;
+
+import com.skillstorm.DAO.ExpenseDAO;
+
+public class System {
+
+	public static void main(String[] args) throws SQLException {
+		Expense expense = new Expense("Dillon Shomaker", "Bought stuff for work", "cost $140");
+		ExpenseDAO dao = new ExpenseDAO();
+		ArrayList<Expense> list = new ArrayList<>();
+		
+		list.add(dao.create(expense));
+		
+		for(Expense e : list) {
+			System.out.println(e);
+		}
+
+	}
+
+}

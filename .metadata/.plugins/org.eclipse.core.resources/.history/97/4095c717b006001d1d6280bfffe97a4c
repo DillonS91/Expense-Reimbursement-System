@@ -1,0 +1,66 @@
+package com.skillstorm.beans;
+
+import java.util.Objects;
+
+public class ReimbursementStatus {
+	
+	/*  class variables that represent attributes from the database table reimbursement_statuses: reimbursement_status and reimbursement_id
+		There are three values that this class/table can have:
+			1 => Pending
+			2 => Approved
+			3 => Denied
+	*/
+	private String reimburStatus; // This field will either be pending, approved, or denied. This field is related to reimbursement_status in the database
+	private int statusId; // This field will either be 1, 2, 3 and map respectively to reimburStatus. This field is related to reimbursement_id in the database
+	
+	//=========================================== 
+	public ReimbursementStatus() {
+		super();
+	}
+
+
+	public String getReimburStatus() {
+		return reimburStatus;
+	}
+
+
+	public void setReimburStatus(String reimburStatus) {
+		this.reimburStatus = reimburStatus;
+	}
+
+
+	public int getStatusId() {
+		return statusId;
+	}
+
+
+	public void setStatusId(int statusId) {
+		this.statusId = statusId;
+	}
+
+	//===========================================
+	@Override
+	public String toString() {
+		return "ReimbursementStatus [reimburStatus=" + reimburStatus + ", statusId=" + statusId + "]";
+	}
+
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(reimburStatus, statusId);
+	}
+
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		ReimbursementStatus other = (ReimbursementStatus) obj;
+		return Objects.equals(reimburStatus, other.reimburStatus) && statusId == other.statusId;
+	}
+	
+}
